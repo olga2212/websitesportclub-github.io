@@ -1,0 +1,18 @@
+body{
+    background-color: #94B49F;
+}
+.color{
+    background-color: #CEE5D0;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+.Anastaisha{
+            text-align: center;
+            font-size: 12px;
+             text-decoration: none;
+            color: #070707;
+          }
+
+.Anas{display:flex; 
+justify-content: center;}
